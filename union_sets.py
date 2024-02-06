@@ -1,5 +1,5 @@
 # Union Sets
-"""
+
 names = {'Iresa', 'Manuel', 'Marigi'}
 subjects = {'Math', 'Comp', 'Stat'}
 n_subjects = names.union(subjects)
@@ -173,7 +173,7 @@ s1 = {1, 2, 3}
 s2 = {1, 2, 3, 4, 5}
 s = s2 >= s1            # Using superset operator
 
-print(s)"""
+print(s)
 
 # Using disjoint sets
 # Two sets are disjoint when they have no elements in common. 
